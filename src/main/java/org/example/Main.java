@@ -9,5 +9,6 @@ public class Main {
         System.out.println("master update");
         System.out.println("xiezhihao update");
         System.out.println("master push test");
+        System.out.println("master pull test");
     }
 }
